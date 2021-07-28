@@ -1,2 +1,2 @@
-"timestamp","date","title","description","url"
-"1627431189000","2021-07-28T23%3A21%3A51.000Z","Atlantis","Terraform pull request automation.","https://www.runatlantis.io"
+"timestamp","date","title","description","url","tags"
+"1627431189000","2021-07-28T23%3A21%3A51.000Z","Atlantis","Terraform pull request automation.","https://www.runatlantis.io","terraform,product"
