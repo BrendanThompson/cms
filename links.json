@@ -9,5 +9,16 @@
 			"terraform",
 			"automation"
 		]
+	},
+	{
+		"timestamp": 1627431189000,
+		"date": "2021-07-28T23%3A21%3A51.000Z",
+		"title": "Gitrows",
+		"description": "Git as a Database",
+		"url": "https://gitrows.com",
+		"tags": [
+			"git",
+			"database"
+		]
 	}
 ]
